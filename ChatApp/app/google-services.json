@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "739249901430",
+    "firebase_url": "https://chatapp-deb75.firebaseio.com",
+    "project_id": "chatapp-deb75",
+    "storage_bucket": "chatapp-deb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739249901430:android:5f5f5d0ab295fa1d",
+        "android_client_info": {
+          "package_name": "com.example.tienvong.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739249901430-m4nmumdj8m0hneqsn8fav7q5uuurq334.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tienvong.chatapp",
+            "certificate_hash": "18fb38b76694be606edcbe14c9fe9a99e542bd2a"
+          }
+        },
+        {
+          "client_id": "739249901430-7ai1dndm9adtnd6mar2b73r5li17hei3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0xHGjIMO3q3vIREVNbHBBpF80CBHgCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739249901430-7ai1dndm9adtnd6mar2b73r5li17hei3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
